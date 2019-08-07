@@ -1,7 +1,7 @@
 # Make your shoe class here!
 class Shoe
-  def initialize(title)
-    @title = title
+  def initialize(brand)
+    @brand = brand
   end
   
   attr_reader :title
