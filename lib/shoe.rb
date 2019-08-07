@@ -8,7 +8,7 @@ class Shoe
   
   attr_accessor :color, :size, :material, :condition
   
-  def turn_page
+  def cobble
     puts "Flipping the page...wow, you read fast!"
   end
 end
