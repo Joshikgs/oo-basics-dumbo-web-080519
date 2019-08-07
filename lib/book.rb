@@ -14,6 +14,5 @@ class Book
   # def author
   #   @author
   # end
-  attr_accessor :author
 end
 
