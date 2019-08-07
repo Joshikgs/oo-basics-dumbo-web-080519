@@ -9,6 +9,6 @@ class Shoe
   attr_accessor :color, :size, :material, :condition
   
   def cobble
-    puts "Flipping the page...wow, you read fast!"
+    puts "Your shoe is as good as new!"
   end
 end
